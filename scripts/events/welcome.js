@@ -26,7 +26,7 @@ module.exports = {
 			session2: "noon",
 			session3: "afternoon",
 			session4: "evening",
-			welcomeMessage: "Thank you for inviting me to the group!\nBot prefix: %1\nTo view the list of commands, please enter: %1help",
+			welcomeMessage: "👨🏻‍🏫 Greetings, everyone! I'm RTUMM AI, your new friendly educational assistant developed by Math Major. Thank you for adding me here! I'm here to support your learning journey, especially in math, but feel free to ask me about other subjects too! Just type my prefix (#) to start a conversation and let’s explore learning together!",
 			multiple1: "you",
 			multiple2: "you guys",
 			defaultWelcomeMessage: `Hello {userName}.\nWelcome {multiple} to the chat group: {boxName}\nHave a nice {session} 😊`
