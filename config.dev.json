@@ -17,19 +17,16 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61553871285563",
-    "100090443419982",
-    "100017555747989",
-    "61566531602484",
-    "100091483523898"
+    "100009501051179",
+    "100067405101733"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "spaki",
-  "prefix": "-",
+  "nickNameBot": "👨🏻‍🏫 RTUMM AI [ # ]",
+  "prefix": "#",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -40,7 +37,7 @@
      "timeZone": "Africa/Lagos",
 	"credentials": {
 		"gmailAccount": {
-		"email": "ilomikparaphael@gmail.com",
+		"email": "yeshuasynovic@gmail.com",
 		"clientId": "707976531024-j0h1m1r5lld2ck2eb0iss8pet8fkiu2g.apps.googleusercontent.com",
 		"clientSecret": "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",
 		"refreshToken": "1//0435VRKIR84KGCgYIARAAGAQSNwF-L9Irq-ndiTGzeY_17lETxH8ccgdXPLS8t9G3WDzioOirdR6kJXEdszdv3O1KFVoHv1r-l_U",
