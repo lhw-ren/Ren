@@ -29,7 +29,7 @@ const UPoLPrefix = [
       
      const upol = event.body.substring(ahprefix.length).trim();
    if (!upol) {
-        await message.reply('Enter a question.? 🥹');
+        await message.reply("👨🏻‍🏫 What's up? How can I assist you today? Let’s tackle some math or anything else you need!");
         return;
       }
       
