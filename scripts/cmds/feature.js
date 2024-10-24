@@ -14,7 +14,7 @@ module.exports = {
     config,
     
     onStart: async function ({ api, event }) {
-        const commandsList = `I'm RTUMM AI, your educational AI buddy created by Math Major.\n👨🏻‍🏫————————————🧑🏻‍🏫\nLIST OF BOT'S COMMANDS\n+————————————+\n#feature [command name]\n#math [calculate]\n#calculate [provide an expression to calculate]\n#ai [query]\n#gemini [query]\n#define [word]\n#dictionary [lookup at dictionary]\n#quiz [subject]\n#guessnumber [number game]\n#google [query]\n#imgsearch [search image]\n#owner [bot owner]\n+———————————+\ntype #help to see other fun features of the bot.\nDesigned by: Math Major`;
+        const commandsList = `I'm RTUMM AI, your educational AI buddy created by Math Major.\n👨🏻‍🏫────୨ৎ────🧑🏻‍🏫\nLIST OF BOT'S COMMANDS\nᡣ𐭩────୨ৎ────ᡣ𐭩\nfeature [command name]\nmath [calculate]\ncalculate [provide an expression to calculate]\nai [query]\ngemini [query]\ndefine [word]\ndictionary [lookup at dictionary]\nquiz [subject]\nguessnumber [number game]\ngoogle [query]\nimgsearch [search image]\nowner [bot owner]\n────୨ৎ────\ntype #help to see other fun features of the bot.\n────୨ৎ────Designed by: Math Major────୨ৎ────`;
 
         api.sendMessage(commandsList, event.threadID, event.messageID);
     }
