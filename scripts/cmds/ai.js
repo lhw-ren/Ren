@@ -2,7 +2,7 @@ const axios = require('axios');
 const UPoLPrefix = [
   '-ai',
   'ai',
-  '/ai',
+  'math',
   'rtumm',
   'bot',
   'ask'
